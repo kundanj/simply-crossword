@@ -1,0 +1,14 @@
+.column {
+  padding: 20px;
+  width: 600px;
+  overflow: auto;
+  display: table;
+}
+
+
+.cw-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+  

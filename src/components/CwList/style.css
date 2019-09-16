@@ -1,0 +1,15 @@
+.column {
+    float: left;
+    padding: 10px;
+    max-width: 50%;
+}
+
+
+  .listtext dd {
+    word-wrap: break-word;
+  }
+
+  .listtext dt {
+    font-weight:bold;
+  }
+  
