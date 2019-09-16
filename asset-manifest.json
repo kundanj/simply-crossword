@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simply-crossword/static/css/main.2aa341e6.chunk.css",
+    "main.js": "/simply-crossword/static/js/main.9b8af037.chunk.js",
+    "main.js.map": "/simply-crossword/static/js/main.9b8af037.chunk.js.map",
+    "runtime~main.js": "/simply-crossword/static/js/runtime~main.e5dc1c36.js",
+    "runtime~main.js.map": "/simply-crossword/static/js/runtime~main.e5dc1c36.js.map",
+    "static/js/2.9bdd56a0.chunk.js": "/simply-crossword/static/js/2.9bdd56a0.chunk.js",
+    "static/js/2.9bdd56a0.chunk.js.map": "/simply-crossword/static/js/2.9bdd56a0.chunk.js.map",
+    "index.html": "/simply-crossword/index.html",
+    "precache-manifest.8b4c3c2ada370edbb7a559c9fdf91a48.js": "/simply-crossword/precache-manifest.8b4c3c2ada370edbb7a559c9fdf91a48.js",
+    "service-worker.js": "/simply-crossword/service-worker.js",
+    "static/css/main.2aa341e6.chunk.css.map": "/simply-crossword/static/css/main.2aa341e6.chunk.css.map"
+  }
+}
