@@ -2,7 +2,7 @@
   "name": "my-crossword",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kundanj.github.io/simply-crossword", 
+  "homepage": "https://kundanj.github.io/simply-crossword", 
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.8.6",
