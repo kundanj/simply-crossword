@@ -7,6 +7,8 @@ const Footer = () => (
   <footer className="footer">
     <p>a barebones Crossword built with React by
     <a href="http://www.disruptive-dna.com"> disruptiveDNA </a>
+    Please see 
+    <a href="http://www.disruptive-dna.com/tos/CrosswordTOS.html"> Terms of Service </a>
     </p>
   </footer>
 );
