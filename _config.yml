@@ -1,0 +1,9 @@
+
+title: Simply Crossword
+description: Crosswords by category built with ReactJS
+url: https://kundanj.github.io/simply-crossword/
+author: Kundan Joshi
+
+
+plugins:
+  - jekyll-seo-tag
