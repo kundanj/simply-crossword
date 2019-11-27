@@ -1,0 +1,70 @@
+
+.enabled-cell {
+  background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-weight: bold;
+  height: 44px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  width: 44px;
+}
+
+.enabled-cell input  {
+  display: block;
+  outline: 0;
+  border: none;
+  position: absolute;
+  float: left;
+  font-size: 24px;
+  line-height: 36px;
+  height: 36px;
+  margin-right: 0 px;
+  margin-top: 8px;
+  padding: 0;
+  text-align: center;
+  width: 36px;
+}
+
+.enabled-cell input:focus  {
+  color: #000000;
+}
+
+.enabled-cell  input:focus + label {
+  color: #2c8efe;
+}
+
+
+.enabled-cell input + label {
+  background: #fff;
+  vertical-align: super;
+  float: right; 
+  font-size: 10px;
+  padding: 0;
+  top: 10px;
+  opacity: 0;
+  color: #666;
+  text-align: right;
+  transition: top 0.7s ease, opacity 0.2s ease;
+  margin-right:2px;
+}
+
+.enabled-cell input:valid + label {
+  opacity: 1;
+  top: 3px;
+}
+
+
+.disabled-cell {
+  background: #666666;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  height: 44px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  width: 44px;
+}
