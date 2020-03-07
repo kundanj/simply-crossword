@@ -32,6 +32,11 @@ You can download and run the repo as:
 
 `npm run build`
 
+## Known issues/To do's
+
+- State change for crossword grid currently uses non-serializable ES15 Map and mutable state operations. Change it to Object and immutable setState for workingMap.
+- Consider Context API to reduce prop drill.
+
 ## Contributing
 
 Pull requests are welcome. Feel free to contribute back especially to refine the aesthetics of the UI.
